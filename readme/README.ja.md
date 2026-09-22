@@ -8,9 +8,9 @@
 
 | Item | Value |
 | --- | --- |
-| Version | `10.10.52` |
+| Version | `10.10.53` |
 | Channel | `Standard` |
-| Release tag | `10.10.52` |
+| Release tag | `10.10.53` |
 | Package format | APK |
 | Android | Android 7.0+ recommended |
 
@@ -20,10 +20,10 @@
 
 | 端末タイプ | APK |
 | --- | --- |
-| ほとんどの新しい Android スマートフォン | [`Shadowrocket_10.10.52_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.52/Shadowrocket_10.10.52_shadowrocketStandard_arm64-v8a.apk) |
-| 古い 32-bit Android スマートフォン | [`Shadowrocket_10.10.52_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.52/Shadowrocket_10.10.52_shadowrocketStandard_armeabi-v7a.apk) |
-| 64-bit Android エミュレーター | [`Shadowrocket_10.10.52_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.52/Shadowrocket_10.10.52_shadowrocketStandard_x86_64.apk) |
-| 古い Android エミュレーター | [`Shadowrocket_10.10.52_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.52/Shadowrocket_10.10.52_shadowrocketStandard_x86.apk) |
+| ほとんどの新しい Android スマートフォン | [`Shadowrocket_10.10.53_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.53/Shadowrocket_10.10.53_shadowrocketStandard_arm64-v8a.apk) |
+| 古い 32-bit Android スマートフォン | [`Shadowrocket_10.10.53_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.53/Shadowrocket_10.10.53_shadowrocketStandard_armeabi-v7a.apk) |
+| 64-bit Android エミュレーター | [`Shadowrocket_10.10.53_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.53/Shadowrocket_10.10.53_shadowrocketStandard_x86_64.apk) |
+| 古い Android エミュレーター | [`Shadowrocket_10.10.53_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.53/Shadowrocket_10.10.53_shadowrocketStandard_x86.apk) |
 
 ## 主な機能
 

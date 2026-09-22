@@ -8,9 +8,9 @@
 
 | Item | Value |
 | --- | --- |
-| Version | `10.10.52` |
+| Version | `10.10.53` |
 | Channel | `Standard` |
-| Release tag | `10.10.52` |
+| Release tag | `10.10.53` |
 | Package format | APK |
 | Android | Android 7.0+ recommended |
 
@@ -20,10 +20,10 @@
 
 | 기기 유형 | APK |
 | --- | --- |
-| 대부분의 최신 Android 휴대폰 | [`Shadowrocket_10.10.52_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.52/Shadowrocket_10.10.52_shadowrocketStandard_arm64-v8a.apk) |
-| 오래된 32비트 Android 휴대폰 | [`Shadowrocket_10.10.52_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.52/Shadowrocket_10.10.52_shadowrocketStandard_armeabi-v7a.apk) |
-| 64비트 Android 에뮬레이터 | [`Shadowrocket_10.10.52_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.52/Shadowrocket_10.10.52_shadowrocketStandard_x86_64.apk) |
-| 오래된 Android 에뮬레이터 | [`Shadowrocket_10.10.52_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.52/Shadowrocket_10.10.52_shadowrocketStandard_x86.apk) |
+| 대부분의 최신 Android 휴대폰 | [`Shadowrocket_10.10.53_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.53/Shadowrocket_10.10.53_shadowrocketStandard_arm64-v8a.apk) |
+| 오래된 32비트 Android 휴대폰 | [`Shadowrocket_10.10.53_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.53/Shadowrocket_10.10.53_shadowrocketStandard_armeabi-v7a.apk) |
+| 64비트 Android 에뮬레이터 | [`Shadowrocket_10.10.53_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.53/Shadowrocket_10.10.53_shadowrocketStandard_x86_64.apk) |
+| 오래된 Android 에뮬레이터 | [`Shadowrocket_10.10.53_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.53/Shadowrocket_10.10.53_shadowrocketStandard_x86.apk) |
 
 ## 주요 기능
 
