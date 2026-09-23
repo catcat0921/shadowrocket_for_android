@@ -8,9 +8,9 @@
 
 | Item | Value |
 | --- | --- |
-| Version | `10.10.53` |
+| Version | `10.10.54` |
 | Channel | `Standard` |
-| Release tag | `10.10.53` |
+| Release tag | `10.10.54` |
 | Package format | APK |
 | Android | Android 7.0+ recommended |
 
@@ -20,10 +20,10 @@ Choisissez l’APK correspondant à l’architecture de votre appareil. En cas d
 
 | Type d’appareil | APK |
 | --- | --- |
-| La plupart des téléphones Android récents | [`Shadowrocket_10.10.53_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.53/Shadowrocket_10.10.53_shadowrocketStandard_arm64-v8a.apk) |
-| Anciens téléphones Android 32 bits | [`Shadowrocket_10.10.53_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.53/Shadowrocket_10.10.53_shadowrocketStandard_armeabi-v7a.apk) |
-| Émulateur Android 64 bits | [`Shadowrocket_10.10.53_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.53/Shadowrocket_10.10.53_shadowrocketStandard_x86_64.apk) |
-| Ancien émulateur Android | [`Shadowrocket_10.10.53_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.53/Shadowrocket_10.10.53_shadowrocketStandard_x86.apk) |
+| La plupart des téléphones Android récents | [`Shadowrocket_10.10.54_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.54/Shadowrocket_10.10.54_shadowrocketStandard_arm64-v8a.apk) |
+| Anciens téléphones Android 32 bits | [`Shadowrocket_10.10.54_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.54/Shadowrocket_10.10.54_shadowrocketStandard_armeabi-v7a.apk) |
+| Émulateur Android 64 bits | [`Shadowrocket_10.10.54_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.54/Shadowrocket_10.10.54_shadowrocketStandard_x86_64.apk) |
+| Ancien émulateur Android | [`Shadowrocket_10.10.54_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.54/Shadowrocket_10.10.54_shadowrocketStandard_x86.apk) |
 
 ## Fonctions principales
 
