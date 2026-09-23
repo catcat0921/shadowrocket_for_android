@@ -8,9 +8,9 @@
 
 | Item | Value |
 | --- | --- |
-| Version | `10.10.54` |
+| Version | `10.10.55` |
 | Channel | `Standard` |
-| Release tag | `10.10.54` |
+| Release tag | `10.10.55` |
 | Package format | APK |
 | Android | Android 7.0+ recommended |
 
@@ -20,10 +20,10 @@ Wybierz APK zgodny z architekturą CPU urządzenia. Jeśli nie wiesz, wybierz na
 
 | Typ urządzenia | APK |
 | --- | --- |
-| Większość nowoczesnych telefonów Android | [`Shadowrocket_10.10.54_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.54/Shadowrocket_10.10.54_shadowrocketStandard_arm64-v8a.apk) |
-| Starsze telefony Android 32-bit | [`Shadowrocket_10.10.54_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.54/Shadowrocket_10.10.54_shadowrocketStandard_armeabi-v7a.apk) |
-| Emulator Android 64-bit | [`Shadowrocket_10.10.54_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.54/Shadowrocket_10.10.54_shadowrocketStandard_x86_64.apk) |
-| Starszy emulator Android | [`Shadowrocket_10.10.54_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.54/Shadowrocket_10.10.54_shadowrocketStandard_x86.apk) |
+| Większość nowoczesnych telefonów Android | [`Shadowrocket_10.10.55_shadowrocketStandard_arm64-v8a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.55/Shadowrocket_10.10.55_shadowrocketStandard_arm64-v8a.apk) |
+| Starsze telefony Android 32-bit | [`Shadowrocket_10.10.55_shadowrocketStandard_armeabi-v7a.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.55/Shadowrocket_10.10.55_shadowrocketStandard_armeabi-v7a.apk) |
+| Emulator Android 64-bit | [`Shadowrocket_10.10.55_shadowrocketStandard_x86_64.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.55/Shadowrocket_10.10.55_shadowrocketStandard_x86_64.apk) |
+| Starszy emulator Android | [`Shadowrocket_10.10.55_shadowrocketStandard_x86.apk`](https://github.com/Pawdroid/shadowrocket_for_android/releases/download/10.10.55/Shadowrocket_10.10.55_shadowrocketStandard_x86.apk) |
 
 ## Najważniejsze funkcje
 
